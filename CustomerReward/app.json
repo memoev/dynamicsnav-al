@@ -1,8 +1,8 @@
 {
-  "id": "eea82978-f5df-4273-bc9f-b0d72c9d614e",
-  "name": "CustomerRewardsProgram",
+  "id": "eea82978-f5df-4273-bc9f-b0d72c9d614a",
+  "name": "CustomerRewardProgram",
   "publisher": "mexcelus",
-  "version": "1.0.0.4",
+  "version": "1.0.0.5",
   "brief": "",
   "description": "Rewards program for customers",
   "privacyStatement": "",
