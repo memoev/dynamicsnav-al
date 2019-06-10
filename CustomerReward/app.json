@@ -1,0 +1,26 @@
+{
+  "id": "eea82978-f5df-4273-bc9f-b0d72c9d614e",
+  "name": "CustomerRewardsProgram",
+  "publisher": "mexcelus",
+  "version": "1.0.0.4",
+  "brief": "",
+  "description": "Rewards program for customers",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://CustomerReward.com/help/",
+  "showMyCode": true,
+  "runtime": "3.0"
+}
